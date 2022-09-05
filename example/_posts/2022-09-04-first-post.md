@@ -9,4 +9,4 @@ hide_last_modified: true
 
 Hi everyone. This is my first post!
 
-![selfie](./assets/img/pic3.jpg)
+![selfie](/assets/img/pic3.jpg)
